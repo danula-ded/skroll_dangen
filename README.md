@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h2><a href="https://danula-ded.github.io/skroll_dangen/" target="_blank" style="color:#FFA500;text-decoration:none;">✨ Посетите сайт "skroll_dangen" ✨</a></h2>
+  <h2><a href="https://danula-ded.github.io/skroll_dangen/" target="_blank">✨ Посетите сайт "skroll_dangen" ✨</a></h2>
 </div>
 
 "skroll_dangen" - это сайт, созданный с художественной точки зрения, чтобы продемонстрировать и отработать эффект параллакса, а также добавить динамику с помощью частиц. Проект был создан для экспериментов с современными веб-технологиями и для создания визуально привлекательного опыта.
